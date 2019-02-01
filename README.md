@@ -2,7 +2,7 @@
 <div align="right">
 <a href="../../../Lesson_01_introduction_to_python_elective/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
-<a href="../../../Lesson_3_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">next</a>
+<a href="../../../Lesson_03_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">next</a>
 </div>
 
 > Agenda 19-02-2019
@@ -24,5 +24,5 @@ Today we will jump into the python programming world. You will get an overview o
 <div align="center">
 <a href="../../../Lesson_01_introduction_to_python_elective/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
-<a href="../../../Lesson_3_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">next</a>
+<a href="../../../Lesson_03_Python_Types_simple_types_Lists_Tuples_and_Sorting_Functions/blob/master/README.md">next</a>
 </div>
