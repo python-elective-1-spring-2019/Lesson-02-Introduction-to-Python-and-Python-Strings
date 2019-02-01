@@ -11,11 +11,12 @@
 
 
 ### Suplementary reading
-
+* [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
+* [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 
 
 ## Exercises
-
+* [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
 
 <div align="center">
 <a href="../../../Lesson_01_introduction_to_python_elective/blob/master/README.md">prev</a> | 
