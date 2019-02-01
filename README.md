@@ -1,4 +1,4 @@
-# Lesson 2: Python Types, simple types, lists, tuples and sorting
+# Lesson 02 Introduction to python and python strings
 <div align="right">
 <a href="../../../Lesson_01_introduction_to_python_and_python_strings/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
