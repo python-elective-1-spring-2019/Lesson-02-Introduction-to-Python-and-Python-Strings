@@ -5,7 +5,7 @@
 <a href="../../../Lesson_03_dictionary_sets_reading_and_writing_files/blob/master/README.md">next</a>
 </div>
 
-> Agenda 22-02-2019 class 1
+> Agenda 19-02-2019
 
 ## Required reading
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
