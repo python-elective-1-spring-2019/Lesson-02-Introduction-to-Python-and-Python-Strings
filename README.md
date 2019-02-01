@@ -7,17 +7,20 @@
 
 > Agenda 19-02-2019
 
+Today we will jump into the python programming world. You will get an overview of the language and you will start to get familiar with the language and the development enviroment. We will focus these first lesson on strings and string manipulations.
 ## Required reading
 
 
 ### Suplementary reading
+<!--
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 
-
+-->
 ## Exercises
+<!--
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
-
+-->
 <div align="center">
 <a href="../../../Lesson_01_introduction_to_python_elective/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
