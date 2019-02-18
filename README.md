@@ -19,17 +19,16 @@ Today we will jump into the python programming world. You will get an overview o
 
 
 ### Suplementary reading
-<!--
 * [RealPython Search results for "string"](https://realpython.com/search?q=string)
-
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 
 -->
 ## Exercises
-<!--
+
 * [string1.py](exercises/string1.py)
 * [string2.py](exercises/string2.py)
+<!--
 * [letter_change.py](exercises/letter_change.py)
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
