@@ -32,9 +32,19 @@ Today we will jump into the python programming world. You will get an overview o
 * [letter_change.py](exercises/letter_change.py)
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
-
-
 -->
+
+## Strings
+
+### Slicing
+
+![](other_materials/hello.png)
+
+
+
+
+
+
 <div align="center">
 <a href="../../../Lesson-01-Introduction-to-the-Python-elective/blob/master/README.md">prev</a> | 
 <a href="https://python-elective-1-spring-2019.github.io/">index</a> | 
