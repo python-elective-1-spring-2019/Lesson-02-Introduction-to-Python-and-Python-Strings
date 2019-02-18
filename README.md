@@ -23,7 +23,7 @@ Today we will jump into the python programming world. You will get an overview o
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
 
--->
+
 ## Exercises
 
 * [string1.py](exercises/string1.py)
