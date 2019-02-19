@@ -34,6 +34,11 @@ Today we will jump into the python programming world. You will get an overview o
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
 -->
 
+## Code from today
+* [hello.py](code_from_today/hello.py)
+
+
+
 ## Strings
 
 ### Slicing
