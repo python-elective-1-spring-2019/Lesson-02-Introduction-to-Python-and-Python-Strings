@@ -17,6 +17,7 @@ Today we will jump into the python programming world. You will get an overview o
 * [String Methods](https://docs.python.org/3.7/library/stdtypes.html#string-methods)
 * [Python String Formatting Best Practices](https://realpython.com/python-string-formatting/)
 * [4.1. if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
+* [String Methods](https://docs.python.org/3/library/stdtypes.html#string-methods)
 
 
 ### Suplementary reading
