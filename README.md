@@ -29,6 +29,7 @@ Today we will jump into the python programming world. You will get an overview o
 
 * [string1.py](exercises/string1.py)
 * [string2.py](exercises/string2.py)
+* [Solutions](exercises/solution/)
 <!--
 * [letter_change.py](exercises/letter_change.py)
 * [Python Strings and Character Data Quiz](https://realpython.com/quizzes/python-strings/)
