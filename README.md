@@ -19,7 +19,7 @@ Today we will jump into the python programming world. You will get an overview o
 * [4.1. if Statements](https://docs.python.org/3/tutorial/controlflow.html#if-statements)
 
 
-### Suplementary reading
+### Supplementary reading
 * [RealPython Search results for "string"](https://realpython.com/search?q=string)
 * [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 * [Splitting, Concatenating, and Joining Strings in Python](https://realpython.com/python-string-split-concatenate-join/)
